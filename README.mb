@@ -1,0 +1,11 @@
+# Supplementary Thesis Material
+
+This repository contains supplementary material related to the measurement analysis presented in the master thesis.
+
+## Files
+
+- `CSV Data.zip`: Measurement data used for analysis.
+- `Figures.zip`: Generated figures included in or related to the thesis.
+- `Matlab Code.zip`: MATLAB scripts used for data processing, analysis, and plotting.
+
+The repository is intended to provide supporting material for traceability and reproducibility.
